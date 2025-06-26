@@ -61,3 +61,9 @@ View Grades
 Exit
 Enter your choice:
 
+## Final Output
+
+![Image](https://github.com/user-attachments/assets/89a519b1-1acf-452c-ab62-a3c566804ba2)
+
+![Image](https://github.com/user-attachments/assets/22d61294-21cf-46a6-8eb1-f459b3ade2fe)
+
