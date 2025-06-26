@@ -28,15 +28,14 @@ This kind of system is often used in schools and colleges by teachers or admins 
 
 ## Features Covered
 
-✅ Add new student (ID, Name, Course)  
-✅ View all student records  
-✅ Search a student by ID  
-✅ Delete a student by ID  
-✅ Mark attendance by date  
-✅ View attendance record  
-✅ Add subject-wise marks  
-✅ View student grades  
-✅ Auto-save data in file using serialization
+1. Add new student (ID, Name, Course)  
+2. View all student records  
+3. Search a student by ID  
+4. Delete a student by ID  
+5. Mark attendance by date  
+6. View attendance record  
+7. Add subject-wise marks  
+8. View student grades  
 
 ## How to Run This Project
 
